@@ -9,10 +9,10 @@
   
 -->
 
-<project name="NotesToLP" default="all" basedir=".">
+<project name="CounterpointTeacher" default="all" basedir=".">
   
   <!-- properties -->
-  <property name="main_package" value="richcode.music"/>
+  <property name="main_package" value="richcode.music.counterpoint.ui"/>
   <property name="build"        value="bin"/>
   <!-- <property name="content"      value="content"/> -->
   <property name="deploy"       value="Deploy_${ant.project.name}"/>

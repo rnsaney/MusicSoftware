@@ -1,6 +1,6 @@
 package richcode.music;
 import java.util.*;
-public class NoteTester{
+public class Test{
 
 	public static void main(String[] args)
 	{		
